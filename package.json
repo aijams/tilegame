@@ -1,0 +1,31 @@
+{
+  "name": "tilegame",
+  "version": "1.0.0",
+  "description": "A game where tiles are placed and removed in groups",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aijams/tilegame.git"
+  },
+  "keywords": [
+    "group-matching",
+    "tiles",
+    "grid"
+  ],
+  "author": {
+	"name": "Augustus Ijams",
+	"email": "aija1100@gmail.com"
+  },
+  "contributors": ["Augustus Ijams", "Ranny Chin"],
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/aijams/tilegame/issues"
+  },
+  "homepage": "https://github.com/aijams/tilegame#readme"
+}
