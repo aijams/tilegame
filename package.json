@@ -31,9 +31,11 @@
     "url": "https://github.com/aijams/tilegame/issues"
   },
   "homepage": "https://github.com/aijams/tilegame#readme",
-  "dependencies": {},
   "devDependencies": {
     "grunt": "^1.0.4",
     "grunt-contrib-uglify": "^4.0.1"
+  },
+  "dependencies": {
+    "phaser": "3.21.0"
   }
 }
