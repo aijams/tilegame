@@ -19,13 +19,19 @@
     "grid"
   ],
   "author": {
-	"name": "Augustus Ijams",
-	"email": "aija1100@gmail.com"
+    "name": "Augustus Ijams",
+    "email": "aija1100@gmail.com"
   },
-  "contributors": ["Augustus Ijams", "Ranny Chin"],
+  "contributors": [
+    "Augustus Ijams",
+    "Ranny Chin"
+  ],
   "license": "GPL-3.0-or-later",
   "bugs": {
     "url": "https://github.com/aijams/tilegame/issues"
   },
-  "homepage": "https://github.com/aijams/tilegame#readme"
+  "homepage": "https://github.com/aijams/tilegame#readme",
+  "dependencies": {
+    "grunt": "^1.0.4"
+  }
 }
